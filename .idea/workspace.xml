@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad676a74-ebf5-40ae-b637-fd262788a31a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar/SearchBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchResults/SearchResults.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchResults/SearchResults.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611531744547</updated>
-      <workItem from="1611531746985" duration="2908000" />
+      <workItem from="1611531746985" duration="3509000" />
     </task>
     <servers />
   </component>
