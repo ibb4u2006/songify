@@ -1,10 +1,13 @@
+import React from 'react';
 import './TrackList.css';
 
-function TrackList() {
-    return (
-        <div className="TrackList">
-        </div>
-    );
+class TrackList extends React.Component {
+    render() {
+        return (
+            <div className="TrackList">
+            </div>
+        );
+    }
 }
 
 export default TrackList;

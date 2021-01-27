@@ -1,13 +1,16 @@
+import React from 'react';
 import './Track.css';
 
-function Track() {
-    return (
-        <div className="Track">
-            <div className="Track-information">
+class Track extends React.Component {
+    render() {
+        return (
+            <div className="Track">
+                <div className="Track-information">
+                </div>
+                <button className="Track-action">+/-</button>
             </div>
-            <button className="Track-action">+/-</button>
-        </div>
-    );
+        );
+    }
 }
 
 export default Track;
